@@ -66,9 +66,9 @@ Esse exemplo imprime a seguinte saída:
 Como você pode ver, o loop for começa com a inicialização do contador para 0. Em seguida, a condição verifica se o contador é menor ou igual a 10.
 Se a condição for verdadeira, o bloco de código dentro do loop é executado. O bloco de código dentro do loop calcula o produto do número e do contador e o exibe no console.
 Por fim, o contador é incrementado. O loop continua até que o contador atinja o valor 10. Nesse momento, a condição se torna falsa e o loop termina
+````
 
 
-
-Eu gostaria de agradecer ao professor do curso, Leonardo Buta, por compartilhar seus conhecimentos e experiências sobre o desenvolvimento .NET.
+##Eu gostaria de agradecer ao professor do curso, Leonardo Buta, por compartilhar seus conhecimentos e experiências sobre o desenvolvimento .NET.
 Ele é um desenvolvedor .NET sênior e um tech expert da DIO, Eu aprendi muito com as suas aulas e espero continuar me aperfeiçoando nessa área. Muito obrigado, Buta!
 [Leonardo Buta] (https://github.com/leonardo-buta)
