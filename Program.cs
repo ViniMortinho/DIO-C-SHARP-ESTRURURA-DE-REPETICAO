@@ -1,78 +1,17 @@
-﻿using System.ComponentModel;
-using ExemplosFundamentos.models;
+﻿using ExemplosFundamentos.models;
 
-//USANDO CLASSE MATH PARA CALCULAR RAIZ QUADRADA
-Calculadora calc = new Calculadora();
-calc.RaizQuadrada(9);
+// Um loop for é uma estrutura de controle que permite repetir um bloco de código um número específico de vezes.
+// Ele consiste em três partes: inicialização, condição e incremento.
 
+// Número que será usado na operação de multiplicação.
+int numero = 5;
 
-
-
-
-
-
-
-
-//FUNÇÃO INCREMENTO
-/* int numeroIncrenemento = 10 ;
-Console.WriteLine(numeroIncrenemento);
-Console.WriteLine("incrementando o 10");
-//numero = numero + 1;
-numeroIncrenemento++;
-Console.WriteLine(numeroIncrenemento); */
-
-//FUNÇÃO DECREMENTO
-/* int numeroDedremento = 20;
-Console.WriteLine(numeroDedremento);
-Console.WriteLine("decrementando o 20");
-//numero = numero - 1;
-numeroDedremento--;
-Console.WriteLine(numeroDedremento); */
-
-
-
-
-
-
-
-
-
-
-
-
-//FUNÇÃO TRIGONOMETRICA
-/* Calculadora calc = new Calculadora();
-
-calc.Seno(30);
-calc.Coseno(30);
-calc.Tangente(30); */
-
-
-
-
-
-
-
-
-
-
-
-
-
-//FUNÇÃO POTENCIA
-//calc.Potencia(3,3);
-
-
-
-
-
-
-
-
-/* Calculadora calc = new Calculadora();
-calc.Somar(10,30);
-calc.Subtrair(10,50);
-calc.Multiplicar(15,45);
-calc.Dividir(2,2);
-
- */
+// O loop for começa com a inicialização do contador para 0.
+// A condição verifica se o contador é menor ou igual a 10.
+// Se a condição for verdadeira, o bloco de código dentro do loop é executado e o contador é incrementado.
+// Isso continua até que a condição se torne falsa, momento em que o loop termina.
+for(int contador = 0; contador <= 10; contador++)
+{
+    // Dentro do loop, calculamos o produto do número e do contador e o exibimos no console.
+    Console.WriteLine($"{numero} x {contador} = {numero * contador}");
+}

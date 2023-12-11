@@ -1,13 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "EOethzAzGzcGCRxVAj7bZWPTkkbzA/e7ypkce+QU4/ojZmJibUcwlFCHpu2kz/qJlTstKtr0Ytld5qawDYklzA==",
+  "dgSpecHash": "IGVXjjWpiAko+uFQ/gXJK+llEbFW77tZcJjiaoZ6EHnD7za5Drne/6BEwnBj9UfsttiZYARG/3Jc+J6MfgogqQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\vinic\\Documents\\Dev\\DIO-C-SHARP-ESTRURURA-DE-REPETIÇÃO\\ExemplosFundmentos.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\vinic\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
-    "C:\\Users\\vinic\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
-    "C:\\Users\\vinic\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.14\\microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512",
-    "C:\\Users\\vinic\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.14\\microsoft.netcore.app.host.win-x64.7.0.14.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }
