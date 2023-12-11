@@ -10,11 +10,13 @@
 
 ## Introdução
 
-Estruturas de repetição, também conhecidas como loops, são usadas em programação para executar um mesmo bloco de código várias vezes, de acordo com uma condição ou um contador. Elas são úteis para simplificar o código, evitar repetições e automatizar tarefas.
+Estruturas de repetição, também conhecidas como loops, são usadas em programação para executar um mesmo bloco de código várias vezes, de acordo com uma condição ou um contador. 
+Elas são úteis para simplificar o código, evitar repetições e automatizar tarefas.
 
 ## Como funcionam as estruturas de repetição?
 
-Quando uma estrutura de repetição é executada, o bloco de código dentro dela é executado repetidamente até que uma condição seja satisfeita. A condição é verificada antes de cada iteração do loop. Se a condição for verdadeira, o bloco de código é executado. Se a condição for falsa, o loop é encerrado.
+Quando uma estrutura de repetição é executada, o bloco de código dentro dela é executado repetidamente até que uma condição seja satisfeita. A condição é verificada antes de cada iteração do loop. 
+Se a condição for verdadeira, o bloco de código é executado. Se a condição for falsa, o loop é encerrado.
 
 ## Quais são os benefícios das estruturas de repetição?
 
@@ -65,5 +67,6 @@ Como você pode ver, o loop for começa com a inicialização do contador para 0
 
 
 
-Eu gostaria de agradecer ao professor do curso, Leonardo Buta, por compartilhar seus conhecimentos e experiências sobre o desenvolvimento .NET. Ele é um desenvolvedor .NET sênior e um tech expert da DIO, Eu aprendi muito com as suas aulas e espero continuar me aperfeiçoando nessa área. Muito obrigado, Buta!
+Eu gostaria de agradecer ao professor do curso, Leonardo Buta, por compartilhar seus conhecimentos e experiências sobre o desenvolvimento .NET.
+Ele é um desenvolvedor .NET sênior e um tech expert da DIO, Eu aprendi muito com as suas aulas e espero continuar me aperfeiçoando nessa área. Muito obrigado, Buta!
 [Leonardo Buta] (https://github.com/leonardo-buta)
