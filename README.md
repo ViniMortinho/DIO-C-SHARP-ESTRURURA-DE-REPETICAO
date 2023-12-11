@@ -63,7 +63,9 @@ Esse exemplo imprime a seguinte saída:
 5 x 10 = 50
 
 
-Como você pode ver, o loop for começa com a inicialização do contador para 0. Em seguida, a condição verifica se o contador é menor ou igual a 10. Se a condição for verdadeira, o bloco de código dentro do loop é executado. O bloco de código dentro do loop calcula o produto do número e do contador e o exibe no console. Por fim, o contador é incrementado. O loop continua até que o contador atinja o valor 10. Nesse momento, a condição se torna falsa e o loop termina
+Como você pode ver, o loop for começa com a inicialização do contador para 0. Em seguida, a condição verifica se o contador é menor ou igual a 10.
+Se a condição for verdadeira, o bloco de código dentro do loop é executado. O bloco de código dentro do loop calcula o produto do número e do contador e o exibe no console.
+Por fim, o contador é incrementado. O loop continua até que o contador atinja o valor 10. Nesse momento, a condição se torna falsa e o loop termina
 
 
 
