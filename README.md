@@ -1,9 +1,9 @@
-
-
-```markdown
 # C SHARP > DIO - Estruturas de Repetição em C#
+---
 
 ## FORMAÇÃO .NET DA [DIO](https://dio.me/curso-dot-net/AFY84PUWVGH8)
+---
+
 
 ## REQUISITOS
 - [.NET Core](https://dotnet.microsoft.com/download)
