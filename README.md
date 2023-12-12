@@ -1,7 +1,9 @@
+Claro, aqui está a documentação formatada em markdown com a introdução ao `While`:
+
+```markdown
 # C SHARP > DIO - Estruturas de Repetição em C#
 
 ## FORMAÇÃO .NET DA [DIO](https://dio.me/curso-dot-net/AFY84PUWVGH8)
-
 
 ## REQUISITOS
 - [.NET Core](https://dotnet.microsoft.com/download)
@@ -34,8 +36,7 @@ Existem três tipos principais de estruturas de repetição em C#:
 
 * Usada quando sabemos o número exato ou aproximado de vezes que queremos repetir um bloco de código.
 
-```c#
-
+```csharp
 using ExemplosFundamentos.models;
 
 // Um loop for é uma estrutura de controle que permite repetir um bloco de código um número específico de vezes.
@@ -66,9 +67,35 @@ Esse exemplo imprime a seguinte saída:
 Como você pode ver, o loop for começa com a inicialização do contador para 0. Em seguida, a condição verifica se o contador é menor ou igual a 10.
 Se a condição for verdadeira, o bloco de código dentro do loop é executado. O bloco de código dentro do loop calcula o produto do número e do contador e o exibe no console.
 Por fim, o contador é incrementado. O loop continua até que o contador atinja o valor 10. Nesse momento, a condição se torna falsa e o loop termina
+```
 
+### While
 
+* Usada quando não sabemos o número exato de vezes que queremos repetir um bloco de código.
+
+```csharp
+using ExemplosFundamentos.models;
+
+// Trabalhando com while
+int numero = 5;
+int contador = 0; 
+
+while(contador <= 10)
+{
+    Console.WriteLine($"{numero} x {contador} = {numero * contador}");
+    contador++;
+}
+O resultado também seria o mesmo utilizando o "do while", mas neste caso ele executa pelo menos uma vez:
+do
+{
+    Console.WriteLine($"{numero} x {contador} = {numero * contador}");
+    contador++;
+    }
+    while (contador <= 10);
+    
+```
 
 ##Eu gostaria de agradecer ao professor do curso, Leonardo Buta, por compartilhar seus conhecimentos e experiências sobre o desenvolvimento .NET.
 Ele é um desenvolvedor .NET sênior e um tech expert da DIO, Eu aprendi muito com as suas aulas e espero continuar me aperfeiçoando nessa área. Muito obrigado, Buta!
 [Leonardo Buta](https://github.com/leonardobuta)
+```
